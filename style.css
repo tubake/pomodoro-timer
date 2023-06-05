@@ -1,0 +1,27 @@
+.container{
+    background-color: #bbbbdb;
+    height: 50vh;
+    border-radius: 40%;
+    position: relative;
+    top: 120px;
+    text-align: center;
+}
+
+
+.wrapper {
+    position: relative;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+}
+
+.wrapper h1 {
+    font-size: 50px;
+}
+
+.wrapper .row #timer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    
+}
